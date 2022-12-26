@@ -1,3 +1,7 @@
+Research question:
+1. Is possible to figure out if a patient could have a cardiac disease using a machine learning classification model?
+2. Which would be the best model to classify the possibility of cardiac disease based on a cardio-exam dataset?
+
 General information:
 1 This is a personal project done by Luis Lopera 
 2 The main aim is to improve my machine learnig skills aplying a SVC and RFC models
